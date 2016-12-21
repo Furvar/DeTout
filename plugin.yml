@@ -1,0 +1,15 @@
+name: DeTout
+version: 1.0
+author: Vilevar
+main: be.vilevar.DeTout.DeTout
+commands:
+ fetes:
+  description: Commandes pour gerer les periodes de fete.
+ rename:
+  description: Commande pour renommer son item en couleur.
+ search:
+  description: Commande pour faire des recherches (pour staff).
+ freeze:
+  description: Commande pour congeler quelqu'un (pour staff).
+ anonyme:
+  description: Commande anonymous (pour staff).

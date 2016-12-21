@@ -1,0 +1,14 @@
+#default configuration for DeTout by Vilevar
+
+#complete met "true" for actived option or "false" for desactived option (ik spreek not english)
+fetes: true
+rename: true
+deathdrop: true
+crafts: true
+masque: true
+search: true
+freeze: true 
+
+annonce: true
+
+fete: temps-normaux
